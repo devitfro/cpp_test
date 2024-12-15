@@ -1,0 +1,10 @@
+﻿  Bear.cpp
+  Bison.cpp
+  Carnivore.cpp
+  Herbivore.cpp
+  Lion.cpp
+  Main.cpp
+D:\development\itStep\c++\cpp_test\mult_inheritance\mult_inheritance\Main.cpp(9,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Wolf.cpp
+  Generating Code...
+  mult_inheritance.vcxproj -> D:\development\itStep\c++\cpp_test\mult_inheritance\x64\Debug\mult_inheritance.exe
